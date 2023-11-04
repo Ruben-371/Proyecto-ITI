@@ -1,0 +1,96 @@
+"action_id","note_id","name","label","query","status","actioned_text","nonce_action","nonce_name"
+"26","22","notify-refund-returns-page","Edit page","http://137.184.5.121/trabajo/wp-admin/post.php?post=15&action=edit","actioned",,NULL,NULL
+"184","62","connect","Connect","?page=wc-addons&section=helper","unactioned",,NULL,NULL
+"731","63","visit-the-theme-marketplace","Visit the theme marketplace","https://woocommerce.com/product-category/themes/?utm_source=inbox&utm_medium=product","actioned",,NULL,NULL
+"732","64","day-after-first-product","Learn more","https://woocommerce.com/document/woocommerce-customizer/?utm_source=inbox&utm_medium=product","actioned",,NULL,NULL
+"733","1","wayflyer_bnpl_q4_2021","Level up with funding","https://woo.com/products/wayflyer/?utm_source=inbox_note&utm_medium=product&utm_campaign=wayflyer_bnpl_q4_2021","actioned",,NULL,NULL
+"734","2","wc_shipping_mobile_app_usps_q4_2021","Get WooCommerce Shipping","https://woo.com/woocommerce-shipping/?utm_source=inbox_note&utm_medium=product&utm_campaign=wc_shipping_mobile_app_usps_q4_2021","actioned",,NULL,NULL
+"735","3","learn-more","Learn more","https://docs.woocommerce.com/document/woocommerce-shipping-and-tax/?utm_source=inbox","unactioned",,NULL,NULL
+"736","4","learn-more","Learn more","https://woo.com/posts/ecommerce-shipping-solutions-guide/?utm_source=inbox_note&utm_medium=product&utm_campaign=learn-more","actioned",,NULL,NULL
+"737","5","optimizing-the-checkout-flow","Learn more","https://woo.com/posts/optimizing-woocommerce-checkout?utm_source=inbox_note&utm_medium=product&utm_campaign=optimizing-the-checkout-flow","actioned",,NULL,NULL
+"738","6","qualitative-feedback-from-new-users","Share feedback","https://automattic.survey.fm/wc-pay-new","actioned",,NULL,NULL
+"739","7","share-feedback","Share feedback","http://automattic.survey.fm/paypal-feedback","unactioned",,NULL,NULL
+"740","8","get-started","Get started","https://woo.com/products/google-listings-and-ads?utm_source=inbox_note&utm_medium=product&utm_campaign=get-started","actioned",,NULL,NULL
+"741","9","update-wc-subscriptions-3-0-15","View latest version","http://137.184.5.121/trabajo/wp-admin/&page=wc-addons&section=helper","actioned",,NULL,NULL
+"742","10","update-wc-core-5-4-0","How to update WooCommerce","https://docs.woocommerce.com/document/how-to-update-woocommerce/","actioned",,NULL,NULL
+"743","13","ppxo-pps-install-paypal-payments-1","View upgrade guide","https://docs.woocommerce.com/document/woocommerce-paypal-payments/paypal-payments-upgrade-guide/","actioned",,NULL,NULL
+"744","14","ppxo-pps-install-paypal-payments-2","View upgrade guide","https://docs.woocommerce.com/document/woocommerce-paypal-payments/paypal-payments-upgrade-guide/","actioned",,NULL,NULL
+"745","15","learn-more","Learn more","https://woo.com/posts/critical-vulnerability-detected-july-2021/?utm_source=inbox_note&utm_medium=product&utm_campaign=learn-more","unactioned",,NULL,NULL
+"746","15","dismiss","Dismiss",,"actioned",,NULL,NULL
+"747","16","learn-more","Learn more","https://woo.com/posts/critical-vulnerability-detected-july-2021/?utm_source=inbox_note&utm_medium=product&utm_campaign=learn-more","unactioned",,NULL,NULL
+"748","16","dismiss","Dismiss",,"actioned",,NULL,NULL
+"749","17","learn-more","Learn more","https://woo.com/posts/critical-vulnerability-detected-july-2021/?utm_source=inbox_note&utm_medium=product&utm_campaign=learn-more","unactioned",,NULL,NULL
+"750","17","dismiss","Dismiss",,"actioned",,NULL,NULL
+"751","18","learn-more","Learn more","https://woo.com/posts/critical-vulnerability-detected-july-2021/?utm_source=inbox_note&utm_medium=product&utm_campaign=learn-more","unactioned",,NULL,NULL
+"752","18","dismiss","Dismiss",,"actioned",,NULL,NULL
+"753","19","share-feedback","Share feedback","https://automattic.survey.fm/store-management","unactioned",,NULL,NULL
+"754","20","learn-more","Learn more","https://developer.woocommerce.com/2022/03/10/woocommerce-3-5-10-6-3-1-security-releases/","unactioned",,NULL,NULL
+"755","20","woocommerce-core-paypal-march-2022-dismiss","Dismiss",,"actioned",,NULL,NULL
+"756","21","learn-more","Learn more","https://developer.woocommerce.com/2022/03/10/woocommerce-3-5-10-6-3-1-security-releases/","unactioned",,NULL,NULL
+"757","21","dismiss","Dismiss",,"actioned",,NULL,NULL
+"758","23","pinterest_03_2022_update","Update Instructions","https://woo.com/document/pinterest-for-woocommerce/?utm_source=inbox_note&utm_medium=product&utm_campaign=pinterest_03_2022_update#section-3","actioned",,NULL,NULL
+"759","24","store_setup_survey_survey_q2_2022_share_your_thoughts","Tell us how it’s going","https://automattic.survey.fm/store-setup-survey-2022","actioned",,NULL,NULL
+"760","25","learn-more","Find out more","https://developer.woocommerce.com/2022/08/09/woocommerce-payments-3-9-4-4-5-1-security-releases/","unactioned",,NULL,NULL
+"761","25","dismiss","Dismiss",,"actioned",,NULL,NULL
+"762","26","learn-more","Find out more","https://developer.woocommerce.com/2022/08/09/woocommerce-payments-3-9-4-4-5-1-security-releases/","unactioned",,NULL,NULL
+"763","26","dismiss","Dismiss",,"actioned",,NULL,NULL
+"764","27","needs-update-eway-payment-gateway-rin-action-button-2022-12-20","See available updates","http://137.184.5.121/trabajo/wp-admin/update-core.php","unactioned",,NULL,NULL
+"765","27","needs-update-eway-payment-gateway-rin-dismiss-button-2022-12-20","Dismiss","#","actioned",,NULL,NULL
+"766","28","updated-eway-payment-gateway-rin-action-button-2022-12-20","See all updates","http://137.184.5.121/trabajo/wp-admin/update-core.php","unactioned",,NULL,NULL
+"767","28","updated-eway-payment-gateway-rin-dismiss-button-2022-12-20","Dismiss","#","actioned",,NULL,NULL
+"768","29","share-navigation-survey-feedback","Share feedback","https://automattic.survey.fm/new-ecommerce-plan-navigation","actioned",,NULL,NULL
+"769","30","woopay-beta-merchantrecruitment-activate-04MAY23","Activate WooPay","http://137.184.5.121/trabajo/wp-admin/admin.php?page=wc-settings&tab=checkout&section=woocommerce_payments&method=platform_checkout","actioned",,NULL,NULL
+"770","30","woopay-beta-merchantrecruitment-activate-learnmore-04MAY23","Learn More","https://woo.com/woopay-businesses/?utm_source=inbox_note&utm_medium=product&utm_campaign=woopay-beta-merchantrecruitment-activate-learnmore-04MAY23","unactioned",,NULL,NULL
+"771","31","woocommerce-wcpay-march-2023-update-needed-button","See Blog Post","https://developer.woocommerce.com/2023/03/23/critical-vulnerability-detected-in-woocommerce-payments-what-you-need-to-know","unactioned",,NULL,NULL
+"772","31","woocommerce-wcpay-march-2023-update-needed-dismiss-button","Dismiss","#","actioned",,NULL,NULL
+"773","32","tap_to_pay_iphone_q2_2023_no_wcpay","Simplify my payments","https://woo.com/products/woocommerce-payments/?utm_source=inbox_note&utm_medium=product&utm_campaign=tap_to_pay_iphone_q2_2023_no_wcpay","actioned",,NULL,NULL
+"774","33","extension-settings","See available updates","http://137.184.5.121/trabajo/wp-admin/update-core.php","unactioned",,NULL,NULL
+"775","33","dismiss","Dismiss","#","actioned",,NULL,NULL
+"776","34","woopay-beta-merchantrecruitment-update-WCPay-04MAY23","Update WooCommerce Payments","http://137.184.5.121/trabajo/wp-admin/plugins.php?plugin_status=all","unactioned",,NULL,NULL
+"777","34","woopay-beta-merchantrecruitment-update-activate-04MAY23","Activate WooPay","http://137.184.5.121/trabajo/wp-admin/admin.php?page=wc-settings&tab=checkout&section=woocommerce_payments&method=platform_checkout","actioned",,NULL,NULL
+"778","35","woopay-beta-existingmerchants-noaction-documentation-27APR23","Documentation","https://woo.com/document/woopay-merchant-documentation/?utm_source=inbox_note&utm_medium=product&utm_campaign=woopay-beta-existingmerchants-noaction-documentation-27APR23","actioned",,NULL,NULL
+"779","36","woopay-beta-existingmerchants-update-WCPay-27APR23","Update WooCommerce Payments","http://137.184.5.121/trabajo/wp-admin/plugins.php?plugin_status=all","actioned",,NULL,NULL
+"780","37","woopay-beta-merchantrecruitment-short-activate-04MAY23","Activate WooPay","http://137.184.5.121/trabajo/wp-admin/admin.php?page=wc-settings&tab=checkout&section=woocommerce_payments&method=platform_checkout","actioned",,NULL,NULL
+"781","37","woopay-beta-merchantrecruitment-short-activate-learnmore-04MAY23","Learn More","https://woo.com/woopay-businesses/?utm_source=inbox_note&utm_medium=product&utm_campaign=woopay-beta-merchantrecruitment-short-activate-learnmore-04MAY23","actioned",,NULL,NULL
+"782","38","woopay-beta-merchantrecruitment-short-update-WCPay-04MAY23","Update WooCommerce Payments","http://137.184.5.121/trabajo/wp-admin/plugins.php?plugin_status=all","unactioned",,NULL,NULL
+"783","38","woopay-beta-merchantrecruitment-short-update-activate-04MAY23","Activate WooPay","http://137.184.5.121/trabajo/wp-admin/admin.php?page=wc-settings&tab=checkout&section=woocommerce_payments&method=platform_checkout","actioned",,NULL,NULL
+"784","39","woopay-beta-merchantrecruitment-short-activate-06MAY23-TESTA","Activate WooPay Test A","http://137.184.5.121/trabajo/wp-admin/admin.php?page=wc-settings&tab=checkout&section=woocommerce_payments&method=platform_checkout","unactioned",,NULL,NULL
+"785","39","woopay-beta-merchantrecruitment-short-activate-learnmore-06MAY23-TESTA","Learn More","https://woo.com/woopay-businesses/?utm_source=inbox_note&utm_medium=product&utm_campaign=woopay-beta-merchantrecruitment-short-activate-learnmore-06MAY23-TESTA","unactioned",,NULL,NULL
+"786","40","woopay-beta-merchantrecruitment-short-activate-06MAY23-TESTB","Activate WooPay Test B","http://137.184.5.121/trabajo/wp-admin/admin.php?page=wc-settings&tab=checkout&section=woocommerce_payments&method=platform_checkout","unactioned",,NULL,NULL
+"787","40","woopay-beta-merchantrecruitment-short-activate-learnmore-06MAY23-TESTA","Learn More","https://woo.com/woopay-businesses/?utm_source=inbox_note&utm_medium=product&utm_campaign=woopay-beta-merchantrecruitment-short-activate-learnmore-06MAY23-TESTA","unactioned",,NULL,NULL
+"788","41","woopay-beta-merchantrecruitment-short-activate-06MAY23-TESTC","Activate WooPay Test C","http://137.184.5.121/trabajo/wp-admin/admin.php?page=wc-settings&tab=checkout&section=woocommerce_payments&method=platform_checkout","unactioned",,NULL,NULL
+"789","41","woopay-beta-merchantrecruitment-short-activate-learnmore-06MAY23-TESTC","Learn More","https://woo.com/woopay-businesses/?utm_source=inbox_note&utm_medium=product&utm_campaign=woopay-beta-merchantrecruitment-short-activate-learnmore-06MAY23-TESTC","unactioned",,NULL,NULL
+"790","42","woopay-beta-merchantrecruitment-short-activate-06MAY23-TESTD","Activate WooPay Test D","http://137.184.5.121/trabajo/wp-admin/admin.php?page=wc-settings&tab=checkout&section=woocommerce_payments&method=platform_checkout","unactioned",,NULL,NULL
+"791","42","woopay-beta-merchantrecruitment-short-activate-learnmore-06MAY23-TESTD","Learn More","https://woo.com/woopay-businesses/?utm_source=inbox_note&utm_medium=product&utm_campaign=woopay-beta-merchantrecruitment-short-activate-learnmore-06MAY23-TESTD","unactioned",,NULL,NULL
+"792","43","woopay-beta-merchantrecruitment-short-activate-button-09MAY23","Activate WooPay","http://137.184.5.121/trabajo/wp-admin/admin.php?page=wc-settings&tab=checkout&section=woocommerce_payments&method=platform_checkout","unactioned",,NULL,NULL
+"793","43","woopay-beta-merchantrecruitment-short-activate-learnmore-button2-09MAY23","Learn More","https://woo.com/woopay-businesses/?utm_source=inbox_note&utm_medium=product&utm_campaign=woopay-beta-merchantrecruitment-short-activate-learnmore-button2-09MAY23","unactioned",,NULL,NULL
+"794","44","woopay-beta-merchantrecruitment-short-update-WCPay-09MAY23","Update WooCommerce Payments","http://137.184.5.121/trabajo/wp-admin/plugins.php?plugin_status=all","unactioned",,NULL,NULL
+"795","44","woopay-beta-merchantrecruitment-short-update-activate-09MAY23","Activate WooPay","http://137.184.5.121/trabajo/wp-admin/admin.php?page=wc-settings&tab=checkout&section=woocommerce_payments&method=platform_checkout","unactioned",,NULL,NULL
+"796","45","woocommerce-WCStripe-May-2023-updated-needed-Plugin-Settings","See available updates","http://137.184.5.121/trabajo/wp-admin/plugins.php?plugin_status=all","unactioned",,NULL,NULL
+"797","45","woocommerce-WCStripe-May-2023-updated-needed-Plugin-Settings-dismiss","Dismiss","#","actioned",,NULL,NULL
+"798","46","woocommerce-WCPayments-June-2023-updated-needed-Plugin-Settings","See available updates","http://137.184.5.121/trabajo/wp-admin/plugins.php?plugin_status=all","unactioned",,NULL,NULL
+"799","46","woocommerce-WCPayments-June-2023-updated-needed-Dismiss","Dismiss","#","actioned",,NULL,NULL
+"800","47","woocommerce-WCSubscriptions-June-2023-updated-needed-Plugin-Settings","See available updates","http://137.184.5.121/trabajo/wp-admin/plugins.php?plugin_status=all","unactioned",,NULL,NULL
+"801","47","woocommerce-WCSubscriptions-June-2023-updated-needed-dismiss","Dismiss","#","actioned",,NULL,NULL
+"802","48","woocommerce-WCReturnsWarranty-June-2023-updated-needed","See available updates","http://137.184.5.121/trabajo/wp-admin/plugins.php?plugin_status=all","unactioned",,NULL,NULL
+"803","48","woocommerce-WCReturnsWarranty-June-2023-updated-needed","Dismiss","#","actioned",,NULL,NULL
+"804","49","woocommerce-WCOPC-June-2023-updated-needed","See available updates","http://137.184.5.121/trabajo/wp-admin/plugins.php?plugin_status=all","actioned",,NULL,NULL
+"805","49","woocommerce-WCOPC-June-2023-updated-needed","Dismiss","http://137.184.5.121/trabajo/wp-admin/#","actioned",,NULL,NULL
+"806","50","woocommerce-WCGC-July-2023-update-needed","See available updates","http://137.184.5.121/trabajo/wp-admin/plugins.php?plugin_status=all","unactioned",,NULL,NULL
+"807","50","woocommerce-WCGC-July-2023-update-needed","Dismiss","#","actioned",,NULL,NULL
+"808","51","learn-more","Learn more","https://woo.com/document/fedex/?utm_medium=product&utm_source=inbox_note&utm_campaign=learn-more#july-2023-api-outage","unactioned",,NULL,NULL
+"809","52","plugin-list","See available updates","http://137.184.5.121/trabajo/wp-admin/plugins.php?plugin_status=all","unactioned",,NULL,NULL
+"810","52","dismiss","Dismiss","http://137.184.5.121/trabajo/wp-admin/admin.php?page=wc-admin","actioned",,NULL,NULL
+"811","53","woocommerce-WCStripe-Aug-2023-update-needed","See available updates","http://137.184.5.121/trabajo/wp-admin/update-core.php?","unactioned",,NULL,NULL
+"812","53","dismiss","Dismiss","#","actioned",,NULL,NULL
+"813","54","dismiss","Dismiss","#","actioned",,NULL,NULL
+"814","55","woocommerce-WooPayments-Aug-2023-update-needed","See available updates","http://137.184.5.121/trabajo/wp-admin/update-core.php?","unactioned",,NULL,NULL
+"815","55","dismiss","Dismiss","#","actioned",,NULL,NULL
+"816","56","dismiss","Dismiss","#","actioned",,NULL,NULL
+"817","57","avalara_q3-2023_noAvaTax","Automate my sales tax","https://woo.com/products/woocommerce-avatax/?utm_source=inbox_note&utm_medium=product&utm_campaign=avalara_q3-2023_noAvaTax","unactioned",,NULL,NULL
+"818","58","woo-activation-survey-blockers-survey-button-22AUG23","Take our short survey","https://woocommerce.survey.fm/getting-started-with-woo","unactioned",,NULL,NULL
+"819","59","woocommerce-usermeta-Sept2023-productvendors","See available updates","http://137.184.5.121/trabajo/wp-admin/plugins.php","unactioned",,NULL,NULL
+"820","59","dismiss","Dismiss","http://137.184.5.121/trabajo/wp-admin/#","actioned",,NULL,NULL
+"821","60","woocommerce-STRIPE-Oct-2023-update-needed","See available updates","http://137.184.5.121/trabajo/wp-admin/update-core.php","unactioned",,NULL,NULL
+"822","60","dismiss","Dismiss","#","actioned",,NULL,NULL
+"823","61","wc_admin_WooPay_Oct30_2023","Get started today","https://woo.com/document/woopay-merchant-documentation/?utm_source=inbox_note&utm_medium=product&utm_campaign=wc_admin_WooPay_Oct30_2023","actioned",,NULL,NULL
